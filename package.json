@@ -1,0 +1,32 @@
+{
+    "name": "excellarate-react",
+    "displayName": "Excellarate React",
+    "description": "An extension pack compiled and optimized for Web Development in Javascript and React Ecosystem",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "steoates.autoimport",
+        "formulahendry.auto-rename-tag",
+        "coenraads.bracket-pair-colorizer-2",
+        "pranaygp.vscode-css-peek",
+        "mikestead.dotenv",
+        "dsznajder.es7-react-js-snippets",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "abusaidm.html-snippets",
+        "kisstkondoros.vscode-gutter-preview",
+        "wix.vscode-import-cost",
+        "zignd.html-css-class-completion",
+        "ritwickdey.liveserver",
+        "pkief.material-icon-theme",
+        "christian-kohler.npm-intellisense",
+        "johnpapa.vscode-peacock",
+        "esbenp.prettier-vscode",
+        "wallabyjs.quokka-vscode"
+    ]
+}
