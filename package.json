@@ -1,6 +1,6 @@
 {
-    "name": "excellarate-react",
-    "displayName": "Excellarate React",
+    "name": "devEnv-react",
+    "displayName": "DevEnv React",
     "publisher":"ApurvaB",
     "description": "An extension pack compiled and optimized for Web Development in Javascript and React Ecosystem",
     "version": "0.0.1",
